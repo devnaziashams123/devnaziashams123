@@ -1,4 +1,4 @@
-<img src="![Uploading image.png…]()
+<img src="<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/69fb2d95-fd60-4940-b43a-4276b7de93b9" />
 "/>
 <h3 align="center">Innovative Web Designer & WordPress Specialist</h3>
 
