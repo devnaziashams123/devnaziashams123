@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nazia Shams</h1>
+<img src=<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/1fd2f4d0-d093-4633-9f31-1f71864bc7a1" />
+>
 <h3 align="center">Innovative Web Designer & WordPress Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnaziashams123&label=Profile%20views&color=0e75b6&style=flat" alt="devnaziashams123" /> </p>
