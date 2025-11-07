@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **devnaziashams@gmail.com**
 
-- ⚡ Fun fact **Reading**
+- ⚡ Fun fact **Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
