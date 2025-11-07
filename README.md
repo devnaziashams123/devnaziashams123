@@ -1,5 +1,4 @@
-<img src="<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/6ae28107-e2d4-4484-870c-fd7556b96c4d" />
-">
+<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/6ae28107-e2d4-4484-870c-fd7556b96c4d" />
 <h3 align="center">Innovative Web Designer & WordPress Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnaziashams123&label=Profile%20views&color=0e75b6&style=flat" alt="devnaziashams123" /> </p>
