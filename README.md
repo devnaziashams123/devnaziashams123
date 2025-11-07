@@ -1,5 +1,4 @@
-<img width="1400" height="349" alt="image" src="[![GitHub Cover Page -](https://github.com/user-attachments/assets/3fc9189d-4408-471d-8caf-c558c31e6260)](https://ibb.co.com/TyL7Kq2)
-" />
+<img src="https://ibb.co.com/TyL7Kq2"/>
 <h3 align="center">Innovative Web Designer & WordPress Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnaziashams123&label=Profile%20views&color=0e75b6&style=flat" alt="devnaziashams123" /> </p>
