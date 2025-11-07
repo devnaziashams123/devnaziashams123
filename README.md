@@ -1,4 +1,5 @@
-<img src="https://ibb.co.com/TyL7Kq2"/>
+<img src="![Uploading image.png…]()
+"/>
 <h3 align="center">Innovative Web Designer & WordPress Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnaziashams123&label=Profile%20views&color=0e75b6&style=flat" alt="devnaziashams123" /> </p>
