@@ -1,4 +1,4 @@
-<img width="1400" height="349" alt="image" src="<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/4b3bb2e1-a706-4ffd-be60-05b153765e41" />
+<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/4b3bb2e1-a706-4ffd-be60-05b153765e41" />
 " />
 
 <h3 align="center">Innovative Web Designer & WordPress Specialist</h3>
