@@ -1,6 +1,7 @@
 <img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/e1c8ae05-65c5-4131-abe2-67437c9179cc" />
 
-<h3 align="center">I design beautiful, high-performing websites that seamlessly transform imaginative concepts into digital reality.</h3>
+<h3 align="center">I design beautiful, high-performing websites that 
+  seamlessly transform imaginative concepts into digital reality.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnaziashams123&label=Profile%20views&color=0e75b6&style=flat" alt="devnaziashams123" /> </p>
 
